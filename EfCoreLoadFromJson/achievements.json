@@ -1,0 +1,905 @@
+[
+    {
+        "title": "The Witcher 2: Assassins of Kings",
+        "developer": "CD Projekt RED",
+        "dlcs": [
+            {
+                "title": "Base game",
+                "achievements": [
+                    {
+                        "name": "To Aedirn!",
+                        "description": "Complete Chapter 1.",
+                        "gamerscore": 5
+                    },
+                    {
+                        "name": "Alea Iacta Est",
+                        "description": "Complete Chapter 2.",
+                        "gamerscore": 10
+                    },
+                    {
+                        "name": "Once Ain't Enough",
+                        "description": "Complete Chapter 3.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Apprentice",
+                        "description": "Use alchemy to brew five potions or oils.",
+                        "gamerscore": 10
+                    },
+                    {
+                        "name": "Master Alchemist",
+                        "description": "Acquire the Mutant ability.",
+                        "gamerscore": 10
+                    },
+                    {
+                        "name": "Avenger",
+                        "description": "Finish the game by killing Letho.",
+                        "gamerscore": 30
+                    },
+                    {
+                        "name": "The Butcher of Blaviken",
+                        "description": "Kill 500 foes.",
+                        "gamerscore": 30
+                    },
+                    {
+                        "name": "Miser",
+                        "description": "Collect 10000 orens.",
+                        "gamerscore": 10
+                    },
+                    {
+                        "name": "Focus",
+                        "description": "Perform three successful ripostes in a row.",
+                        "gamerscore": 30
+                    },
+                    {
+                        "name": "Craftsman",
+                        "description": "Hire a craftsman to create an item.",
+                        "gamerscore": 10
+                    },
+                    {
+                        "name": "Pest Control",
+                        "description": "Finish all quests involing the destruction of monster nests.",
+                        "gamerscore": 20
+                    },
+                    {
+                        "name": "Backbone",
+                        "description": "Craft a suit of armor from elements of the kayran's carapace.",
+                        "gamerscore": 20
+                    },
+                    {
+                        "name": "Being Witcher George",
+                        "description": "Kill the dragon.",
+                        "gamerscore": 20
+                    },
+                    {
+                        "name": "Fat Man",
+                        "description": "Kill the draug.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Torn Asunder!",
+                        "description": "Kill more than one opponent using a single exploding bomb.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Gambler",
+                        "description": "Win an arm wrestling match, a dice poker game and a fist fight.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Gladiator",
+                        "description": "Defeat all opponents in the Kaedweni arena.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Eagle Eye",
+                        "description": "Hit Count Etcheverry using the ballista.",
+                        "gamerscore": 10
+                    },
+                    {
+                        "name": "Heartbreaker",
+                        "description": "Seduce Ves.",
+                        "gamerscore": 10
+                    },
+                    {
+                        "name": "Madman",
+                        "description": "Finish the game while playing at the Dark difficulty level.",
+                        "gamerscore": 100
+                    },
+                    {
+                        "name": "Kingmaker",
+                        "description": "Help Roche rescue Anais from the Kaedweni camp.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Dragonheart",
+                        "description": "Spare or save Saskia.",
+                        "gamerscore": 20
+                    },
+                    {
+                        "name": "Journeyman",
+                        "description": "Achieve character level 10.",
+                        "gamerscore": 10
+                    },
+                    {
+                        "name": "Guru",
+                        "description": "Achieve character level 35.",
+                        "gamerscore": 50
+                    },
+                    {
+                        "name": "Librarian",
+                        "description": "Find all additional information about the insane asylum's history.",
+                        "gamerscore": 30
+                    },
+                    {
+                        "name": "Master of Magic",
+                        "description": "Acquire the Sense of Magic ability.",
+                        "gamerscore": 10
+                    },
+                    {
+                        "name": "Mutant!",
+                        "description": "Enhance abilities using mutagens at least five times.",
+                        "gamerscore": 30
+                    },
+                    {
+                        "name": "Necromancer",
+                        "description": "Relive all of Auckes's memories in Dethmold's vision.",
+                        "gamerscore": 50
+                    },
+                    {
+                        "name": "Old Friends",
+                        "description": "Finish the game by sparing Letho.",
+                        "gamerscore": 30
+                    },
+                    {
+                        "name": "Last Man Standing",
+                        "description": "Survive your 30th fight in the Arena",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Perfectionist",
+                        "description": "Kill 10 foes in a row without losing any Vitality.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Poker!",
+                        "description": "Roll five-of-a-kind at dice poker.",
+                        "gamerscore": 30
+                    },
+                    {
+                        "name": "Tried-and-True",
+                        "description": "Survive your 5th fight in the Arena",
+                        "gamerscore": 10
+                    },
+                    {
+                        "name": "The Fugitive",
+                        "description": "Complete the Prologue.",
+                        "gamerscore": 5
+                    },
+                    {
+                        "name": "Ricochet",
+                        "description": "Kill a foe by deflecting his own arrow at him.",
+                        "gamerscore": 10
+                    },
+                    {
+                        "name": "Sensitive Guy",
+                        "description": "Save Síle from dying in the unstable portal.",
+                        "gamerscore": 10
+                    },
+                    {
+                        "name": "Intimidator",
+                        "description": "Intimidate someone.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Man of the Shadows",
+                        "description": "Successfully sneak through Loredo's garden and find the component of the kayran trap.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Black Ops",
+                        "description": "Sneak through the lower camp without raising the alarm.",
+                        "gamerscore": 20
+                    },
+                    {
+                        "name": "Spellbreaker",
+                        "description": "Help Iorveth find the dagger needed to free Saskia from the spell that holds her.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Reasons of State",
+                        "description": "Stop Roche from killing Henselt.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Swordmaster",
+                        "description": "Acquire the Combat Acumen ability.",
+                        "gamerscore": 10
+                    },
+                    {
+                        "name": "Kayranslayer",
+                        "description": "Kill the kayran.",
+                        "gamerscore": 10
+                    },
+                    {
+                        "name": "Artful Dodger",
+                        "description": "Cut off a tentacle using the kayran trap.",
+                        "gamerscore": 30
+                    },
+                    {
+                        "name": "To Be Continued…",
+                        "description": "Finish the game at any difficulty level.",
+                        "gamerscore": 50
+                    },
+                    {
+                        "name": "Tourist",
+                        "description": "Tour the camp with Zyvik.",
+                        "gamerscore": 10
+                    },
+                    {
+                        "name": "Threesome",
+                        "description": "Kill three foes at once by performing a group finisher.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Friend of Trolls",
+                        "description": "Spare all trolls in the game.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Trollslayer",
+                        "description": "Kill all the trolls in the game.",
+                        "gamerscore": 30
+                    },
+                    {
+                        "name": "Witch Hunter",
+                        "description": "Leave Síle to die in the unstable portal.",
+                        "gamerscore": 10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "The Witcher 3: Wild Hunt",
+        "developer": "CD Projekt RED",
+        "dlcs": [
+            {
+                "title": "Base game",
+                "achievements": [
+                    {
+                        "name": "Lilac and Gooseberries",
+                        "description": "Find Yennefer of Vengerberg.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "A Friend in Need",
+                        "description": "Find and free Dandelion.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Necromancer",
+                        "description": "Help Yennefer extract information from Skjall's body.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Family Counselor",
+                        "description": "Find the baron's wife and daughter.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Something More",
+                        "description": "Find Ciri.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Xenonaut",
+                        "description": "Visit Tir ná Lia and convince Ge'els to betray Eredin.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "The King is Dead",
+                        "description": "Defeat Eredin.",
+                        "gamerscore": 30
+                    },
+                    {
+                        "name": "Passed the Trial",
+                        "description": "Finish the game on any difficulty.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Ran the Gauntlet",
+                        "description": "Finish the game on the \"Blood and Broken Bones!\" or \"Death March!\" difficulty levels.",
+                        "gamerscore": 30
+                    },
+                    {
+                        "name": "Walked the Path",
+                        "description": "Finish the game on the \"Death March!\" difficulty level.",
+                        "gamerscore": 65
+                    },
+                    {
+                        "name": "Geralt: The Professional",
+                        "description": "Complete all witcher contracts.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Kingmaker",
+                        "description": "Complete the subplot about choosing Skellige's ruler.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Assassin of Kings",
+                        "description": "Take part in the assassination of King Radovid.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Friends With Benefits",
+                        "description": "Complete the subplot involving Keira Metz.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Full Crew",
+                        "description": "Bring all possible allies to Kaer Morhen for the battle against the Hunt.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Dendrologist",
+                        "description": "Acquire all the Abilities in one tree.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "The Enemy of My Enemy",
+                        "description": "Use the Axii Sign to force one opponent to kill another. Do this 20 times.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Humpty Dumpty",
+                        "description": "Kill 10 opponents by knocking them off somewhere high with the Aard Sign.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Environmentally Unfriendly",
+                        "description": "Kill 50 opponents using the environment (e.g. swamp gas, insects or objects).",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Kaer Morhen Trained",
+                        "description": "Perform 10 effective counterattacks in a row without getting hit or parrying.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Can't Touch This!",
+                        "description": "Kill 5 foes in a fight without taking damage (except for Toxicity) and without using the Quen Sign.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "That Is the Evilest Thing…",
+                        "description": "Ignite the gas produced by a Dragon's Dream bomb using a burning opponent. Do this 10 times.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Butcher of Blaviken",
+                        "description": "Kill at least 5 opponents in under 10 seconds.",
+                        "gamerscore": 30
+                    },
+                    {
+                        "name": "Triple Threat",
+                        "description": "Kill 3 opponents in one fight using 3 different methods (swords, bombs, crossbow, Signs, etc.).",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Brawler",
+                        "description": "Defeat Olaf, the Skellige champion of unarmed combat.",
+                        "gamerscore": 30
+                    },
+                    {
+                        "name": "Overkill",
+                        "description": "Make an opponent suffer from bleeding, poisoning and burning simultaneously. Do this 10 times.",
+                        "gamerscore": 30
+                    },
+                    {
+                        "name": "Master Marksman",
+                        "description": "Kill 50 human and nonhuman opponents by striking them in the head with a crossbow bolt.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "What Was That?",
+                        "description": "Attack, counter, cast a Sign and throw a bomb (in any order) in under 4 seconds.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Globetrotter",
+                        "description": "Discover 100 fast travel points.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Pest Control",
+                        "description": "Destroy all monster nests in the Velen / Novigrad region, or in Skellige.",
+                        "gamerscore": 30
+                    },
+                    {
+                        "name": "Card Collector",
+                        "description": "Acquire all gwent cards available in the base version of the game.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Gwent Master",
+                        "description": "Defeat Tybalt and win the gwent tournament held at the Passiflora.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Let's Cook!",
+                        "description": "Learn 12 potion formulae.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Bombardier",
+                        "description": "Collect the formulae for 6 different bomb types.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Bookworm",
+                        "description": "Read 30 books, journals or other documents.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Armed and Dangerous",
+                        "description": "Find and equip all the elements of one set of witcher gear.",
+                        "gamerscore": 30
+                    },
+                    {
+                        "name": "Power Overwhelming",
+                        "description": "Have all possible Place of Power bonuses active at the same time.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Brawl Master",
+                        "description": "Complete all fistfighting quests in Velen, Skellige and Novigrad.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Fast and Furious",
+                        "description": "Win all the horse races in the game.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Munchkin",
+                        "description": "Reach character development level 35.",
+                        "gamerscore": 65
+                    },
+                    {
+                        "name": "Fire in the Hole",
+                        "description": "Destroy 10 monster nests using bombs.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Fist of the South Star",
+                        "description": "Defeat an opponent in a fistfight without taking any damage.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Geralt and Friends",
+                        "description": "Win a round of gwent using only neutral cards.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "All In",
+                        "description": "Play three hero cards in one round of gwent and win the match.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Shrieker",
+                        "description": "Complete the contract on the shrieker.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Fearless Vampire Slayer",
+                        "description": "Complete the contract on Sarasti.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Woodland Spirit",
+                        "description": "Complete the contract on the Woodland Spirit.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Fiend or Foe?",
+                        "description": "Complete the contract on Morvudd.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Ashes to Ashes",
+                        "description": "Complete the contract on Therazane.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "The Doppler Effect",
+                        "description": "Resolve the doppler problem in Novigrad.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Even Odds",
+                        "description": "Kill 2 monsters you have a contract on without using Signs, potions, mutagens, oils or bombs.",
+                        "gamerscore": 30
+                    },
+                    {
+                        "name": "Mutant",
+                        "description": "Fill all mutagen slots.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Killed It",
+                        "description": "Win a round of gwent with a total strength of at least 187.",
+                        "gamerscore": 50
+                    }
+                ]
+            },
+            {
+                "title": "Hearts of Stone",
+                "achievements": [
+                    {
+                        "name": "I'm Not Kissing That",
+                        "description": "Kill the prince cursed into a toad.",
+                        "gamerscore": 35
+                    },
+                    {
+                        "name": "Let the Good Times Roll!",
+                        "description": "Participate in all the activities at the wedding.",
+                        "gamerscore": 35
+                    },
+                    {
+                        "name": "Shopaholic",
+                        "description": "Buy all the items put on the block at the Borsodis' Auction House.",
+                        "gamerscore": 35
+                    },
+                    {
+                        "name": "Curator of Nightmares",
+                        "description": "Recreate all of Iris' nightmares in the Painted World.",
+                        "gamerscore": 35
+                    },
+                    {
+                        "name": "Pacta Sunt Servanda",
+                        "description": "Finish the \"Hearts of Stone\" expansion.",
+                        "gamerscore": 35
+                    },
+                    {
+                        "name": "When It's Many Against One…",
+                        "description": "Provoke all Iris von Everec's Nightmares into fighting you at the same time and defeat them.",
+                        "gamerscore": 50
+                    },
+                    {
+                        "name": "Return to Sender",
+                        "description": "Kill 3 opponents with their own arrows.",
+                        "gamerscore": 35
+                    },
+                    {
+                        "name": "Can Quit Anytime I Want",
+                        "description": "Be under the influence of seven potions or decoctions at the same time.",
+                        "gamerscore": 35
+                    },
+                    {
+                        "name": "Wild Rose Dethorned",
+                        "description": "Defeat all the fallen knights and loot their campsites.",
+                        "gamerscore": 35
+                    },
+                    {
+                        "name": "I Wore Ofieri Before It Was Cool",
+                        "description": "Collect all available Ofieri armor and horse gear, and at least one Ofieri sword.",
+                        "gamerscore": 50
+                    },
+                    {
+                        "name": "Moo-rderer",
+                        "description": "Kill 20 cows.",
+                        "gamerscore": 35
+                    },
+                    {
+                        "name": "Rad Steez, Bro!",
+                        "description": "Slide downhill uninterrupted for at least 10 seconds.",
+                        "gamerscore": 35
+                    }
+                ]
+            },
+            {
+                "title": "Blood and Wine",
+                "achievements": [
+                    {
+                        "name": "The Witcher's Gone South",
+                        "description": "Travel to the Duchy of Toussaint.",
+                        "gamerscore": 35
+                    },
+                    {
+                        "name": "Last Action Hero",
+                        "description": "Be decorated with the Order of Vitis Vinifera.",
+                        "gamerscore": 35
+                    },
+                    {
+                        "name": "Kling of the Clink",
+                        "description": "Serve time in Toussaint.",
+                        "gamerscore": 35
+                    },
+                    {
+                        "name": "A Knight to Remember",
+                        "description": "Obtain a flawless victory in all the competitions during the knights' tourney.",
+                        "gamerscore": 35
+                    },
+                    {
+                        "name": "Embodiment of the Five Virtues",
+                        "description": "Be given Aerondight by the Lady of the Lake.",
+                        "gamerscore": 35
+                    },
+                    {
+                        "name": "Playing House",
+                        "description": "Use all available options for developing Corvo Bianco.",
+                        "gamerscore": 35
+                    },
+                    {
+                        "name": "Turned Every Stone",
+                        "description": "Find all grandmaster diagrams for each witcher school.",
+                        "gamerscore": 50
+                    },
+                    {
+                        "name": "I Have a Gwent Problem",
+                        "description": "Collect all the cards in the Skellige deck.",
+                        "gamerscore": 50
+                    },
+                    {
+                        "name": "The Grapes of Wrath Stomped",
+                        "description": "Help unite the warring vineyards and have a wine named in your honor.",
+                        "gamerscore": 35
+                    },
+                    {
+                        "name": "Dressed to Kill",
+                        "description": "Unlock the bonus for equipping all the witcher gear elements from one School.",
+                        "gamerscore": 35
+                    },
+                    {
+                        "name": "Weapon \"W",
+                        "description": "Develop a mutation.",
+                        "gamerscore": 35
+                    },
+                    {
+                        "name": "Hasta la Vista™",
+                        "description": "Kill a frozen opponent with a crossbow bolt.",
+                        "gamerscore": 50
+                    },
+                    {
+                        "name": "David and Golyat",
+                        "description": "Kill Golyat with a crossbow bolt to his eye.",
+                        "gamerscore": 35
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Cyberpunk 2077",
+        "developer": "CD Projekt RED",
+        "dlcs": [
+            {
+                "title": "Base game",
+                "achievements": [
+                    {
+                        "name": "The Fool",
+                        "description": "Become a mercenary.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "The Lovers",
+                        "description": "Steal the Relic.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "The Hermit",
+                        "description": "Find Alt Cunningham.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "The Wheel of Fortune",
+                        "description": "Interrogate Anders Hellman.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "The High Priestess",
+                        "description": "Talk with Hanako Arasaka.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "The World",
+                        "description": "Complete the main storyline.",
+                        "gamerscore": 90
+                    },
+                    {
+                        "name": "The Devil",
+                        "description": "Help Takemura avenge the death of Saburo Arasaka.",
+                        "gamerscore": 30
+                    },
+                    {
+                        "name": "The Star",
+                        "description": "Leave Night City with the Aldecaldos.",
+                        "gamerscore": 30
+                    },
+                    {
+                        "name": "The Sun",
+                        "description": "Become a legend of the Afterlife.",
+                        "gamerscore": 30
+                    },
+                    {
+                        "name": "Temperance",
+                        "description": "Let Johnny Silverhand keep your body.",
+                        "gamerscore": 30
+                    },
+                    {
+                        "name": "To Protect and Serve",
+                        "description": "Complete River Ward's storyline.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "To Bad Decisions!",
+                        "description": "Complete Kerry Eurodyne's storyline.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Judy vs Night City",
+                        "description": "Complete Judy Alvarez's storyline.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Life of the Road",
+                        "description": "Complete Panam Palmer's storyline.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Bushido and Chill",
+                        "description": "Watch Bushido X with Rogue.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Breathtaking",
+                        "description": "Collect all items that once belonged to Johnny Silverhand.",
+                        "gamerscore": 30
+                    },
+                    {
+                        "name": "It's Elementary",
+                        "description": "Complete all gigs and NCPD Scanner Hustles in Watson.",
+                        "gamerscore": 30
+                    },
+                    {
+                        "name": "I Am The Law",
+                        "description": "Complete all Cyberpsycho Sightings.",
+                        "gamerscore": 20
+                    },
+                    {
+                        "name": "Greetings from Pacifica!",
+                        "description": "Complete all gigs and NCPD Scanner Hustles in Pacifica.",
+                        "gamerscore": 30
+                    },
+                    {
+                        "name": "The Wasteland",
+                        "description": "Complete all gigs and NCPD Scanner Hustles in the Badlands.",
+                        "gamerscore": 30
+                    },
+                    {
+                        "name": "Little Tokyo",
+                        "description": "Complete all gigs and NCPD Scanner Hustles in Westbrook.",
+                        "gamerscore": 30
+                    },
+                    {
+                        "name": "Mean Streets",
+                        "description": "Complete all gigs and NCPD Scanner Hustles in Heywood.",
+                        "gamerscore": 30
+                    },
+                    {
+                        "name": "The Jungle",
+                        "description": "Complete all gigs and NCPD Scanner Hustles in Santo Domingo.",
+                        "gamerscore": 30
+                    },
+                    {
+                        "name": "City Lights",
+                        "description": "Complete all gigs and NCPD Scanner Hustles in City Center.",
+                        "gamerscore": 30
+                    },
+                    {
+                        "name": "Full Body Conversion",
+                        "description": "Install at least one implant in each system and body part.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Gun Fu",
+                        "description": "Kill or incapacitate 3 enemies in quick succession with a revolver or pistol in close combat.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Christmas Tree Attack",
+                        "description": "Complete a Breach Protocol with a minimum of 3 daemons uploaded.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Ten out of Ten",
+                        "description": "Reach the max level in any skill.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Gunslinger",
+                        "description": "Shoot an enemy grenade in midair with a revolver.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Two Heads, One Bullet",
+                        "description": "Kill or incapacitate 2 enemies with the same sniper rifle shot.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Rough Landing",
+                        "description": "While Berserk cyberware is active, perform a Superhero Landing to kill or incapacitate 2 enemies.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Stanislavski's Method",
+                        "description": "Use a dialogue option related to V's life path 10 times.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Autojock",
+                        "description": "Buy all vehicles available for purchase.",
+                        "gamerscore": 30
+                    },
+                    {
+                        "name": "Master Crafter",
+                        "description": "Craft 3 Legendary items.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Daemon In The Shell",
+                        "description": "Kill or incapacitate 3 enemies with one \"Detonate Grenade\" quickhack.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "The Quick and the Dead",
+                        "description": "Kill or incapacitate 50 enemies while time is slowed.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "Must Be Rats",
+                        "description": "Perform the Distract Enemies quickhack 30 times without drawing attention to yourself.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "V for Vendetta",
+                        "description": "After reviving with Second Heart, kill or incapacitate the enemy who killed you within 5 seconds.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "True Soldier",
+                        "description": "Kill or incapacitate 300 enemies using ranged weapons.",
+                        "gamerscore": 30
+                    },
+                    {
+                        "name": "True Warrior",
+                        "description": "Kill or incapacitate 100 enemies using melee weapons.",
+                        "gamerscore": 30
+                    },
+                    {
+                        "name": "Right Back At Ya",
+                        "description": "Kill or incapacitate an enemy who threw a grenade at you.",
+                        "gamerscore": 15
+                    },
+                    {
+                        "name": "The Wandering Fool",
+                        "description": "Find all the tarot graffiti for the job Fool on the Hill.",
+                        "gamerscore": 30
+                    },
+                    {
+                        "name": "Frequent Flyer",
+                        "description": "Find all fast travel dataterms.",
+                        "gamerscore": 20
+                    },
+                    {
+                        "name": "Legend of The Afterlife",
+                        "description": "Reach max Street Cred.",
+                        "gamerscore": 30
+                    }
+                ]
+            }
+        ]
+    }
+]
